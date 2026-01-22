@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What's your preferred game genre?",
+      "options": [
+        {
+          "text": "Shooter / FPS",
+          "tags": ["shooter", "fps"]
+        },
+        {
+          "text": "RPG / Adventure",
+          "tags": ["rpg", "adventure"]
+        },
+        {
+          "text": "Puzzle / Strategy",
+          "tags": ["puzzle", "strategy"]
+        },
+        {
+          "text": "Platformer / Action",
+          "tags": ["platformer", "action"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How do you prefer to play?",
+      "options": [
+        {
+          "text": "Single-player campaigns",
+          "tags": ["singleplayer"]
+        },
+        {
+          "text": "Multiplayer / Online",
+          "tags": ["multiplayer"]
+        },
+        {
+          "text": "Party games with friends",
+          "tags": ["party", "multiplayer"]
+        },
+        {
+          "text": "Either - I'm flexible",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What difficulty level do you enjoy?",
+      "options": [
+        {
+          "text": "Easy / Casual",
+          "tags": ["casual"]
+        },
+        {
+          "text": "Normal / Balanced",
+          "tags": []
+        },
+        {
+          "text": "Hard / Challenging",
+          "tags": ["hard"]
+        },
+        {
+          "text": "Extremely Difficult",
+          "tags": ["hard", "souls-like"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What game setting appeals to you most?",
+      "options": [
+        {
+          "text": "Fantasy worlds",
+          "tags": ["fantasy"]
+        },
+        {
+          "text": "Sci-fi / Futuristic",
+          "tags": ["scifi"]
+        },
+        {
+          "text": "Modern / Realistic",
+          "tags": []
+        },
+        {
+          "text": "Sandbox / Creative",
+          "tags": ["sandbox"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How do you prefer the game pacing?",
+      "options": [
+        {
+          "text": "Fast-paced action",
+          "tags": ["action", "competitive"]
+        },
+        {
+          "text": "Relaxing / Laid-back",
+          "tags": ["casual", "farming"]
+        },
+        {
+          "text": "Strategic / Methodical",
+          "tags": ["strategy", "logic"]
+        },
+        {
+          "text": "Physics-based puzzles",
+          "tags": ["puzzle", "physics"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What type of game mechanics interest you?",
+      "options": [
+        {
+          "text": "Competitive ranked matches",
+          "tags": ["competitive", "multiplayer"]
+        },
+        {
+          "text": "Exploration and discovery",
+          "tags": ["adventure"]
+        },
+        {
+          "text": "Boss battles and combat",
+          "tags": ["hard", "metroidvania"]
+        },
+        {
+          "text": "Building and farming",
+          "tags": ["farming", "sandbox"]
+        }
+      ]
+    }
+  ]
+}

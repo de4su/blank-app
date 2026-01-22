@@ -1,0 +1,109 @@
+{
+  "games": [
+    {
+      "id": 730,
+      "name": "Counter-Strike 2",
+      "app_id": 730,
+      "tags": ["shooter", "multiplayer", "competitive", "fps"],
+      "store_url": "https://store.steampowered.com/app/730"
+    },
+    {
+      "id": 1245620,
+      "name": "Elden Ring",
+      "app_id": 1245620,
+      "tags": ["rpg", "hard", "souls-like", "fantasy", "singleplayer"],
+      "store_url": "https://store.steampowered.com/app/1245620"
+    },
+    {
+      "id": 620,
+      "name": "Portal 2",
+      "app_id": 620,
+      "tags": ["puzzle", "scifi", "singleplayer", "physics"],
+      "store_url": "https://store.steampowered.com/app/620"
+    },
+    {
+      "id": 413150,
+      "name": "Stardew Valley",
+      "app_id": 413150,
+      "tags": ["rpg", "casual", "farming", "singleplayer"],
+      "store_url": "https://store.steampowered.com/app/413150"
+    },
+    {
+      "id": 1938090,
+      "name": "Call of Duty",
+      "app_id": 1938090,
+      "tags": ["shooter", "fps", "multiplayer", "casual"],
+      "store_url": "https://store.steampowered.com/app/1938090"
+    },
+    {
+      "id": 210970,
+      "name": "The Witness",
+      "app_id": 210970,
+      "tags": ["puzzle", "hard", "logic", "singleplayer"],
+      "store_url": "https://store.steampowered.com/app/210970"
+    },
+    {
+      "id": 367520,
+      "name": "Hollow Knight",
+      "app_id": 367520,
+      "tags": ["metroidvania", "hard", "singleplayer", "fantasy"],
+      "store_url": "https://store.steampowered.com/app/367520"
+    },
+    {
+      "id": 504230,
+      "name": "Celeste",
+      "app_id": 504230,
+      "tags": ["platformer", "hard", "singleplayer"],
+      "store_url": "https://store.steampowered.com/app/504230"
+    },
+    {
+      "id": 945360,
+      "name": "Among Us",
+      "app_id": 945360,
+      "tags": ["multiplayer", "casual", "party"],
+      "store_url": "https://store.steampowered.com/app/945360"
+    },
+    {
+      "id": 105600,
+      "name": "Terraria",
+      "app_id": 105600,
+      "tags": ["sandbox", "multiplayer", "adventure"],
+      "store_url": "https://store.steampowered.com/app/105600"
+    },
+    {
+      "id": 812140,
+      "name": "Disco Elysium",
+      "app_id": 812140,
+      "tags": ["rpg", "adventure", "singleplayer"],
+      "store_url": "https://store.steampowered.com/app/812140"
+    },
+    {
+      "id": 1174180,
+      "name": "Dave the Diver",
+      "app_id": 1174180,
+      "tags": ["adventure", "casual", "puzzle"],
+      "store_url": "https://store.steampowered.com/app/1174180"
+    },
+    {
+      "id": 1091500,
+      "name": "Cyberpunk 2077",
+      "app_id": 1091500,
+      "tags": ["rpg", "action", "scifi"],
+      "store_url": "https://store.steampowered.com/app/1091500"
+    },
+    {
+      "id": 1313860,
+      "name": "Hades",
+      "app_id": 1313860,
+      "tags": ["roguelike", "action", "fantasy", "singleplayer"],
+      "store_url": "https://store.steampowered.com/app/1313860"
+    },
+    {
+      "id": 435400,
+      "name": "Valheim",
+      "app_id": 435400,
+      "tags": ["sandbox", "adventure", "multiplayer"],
+      "store_url": "https://store.steampowered.com/app/435400"
+    }
+  ]
+}
